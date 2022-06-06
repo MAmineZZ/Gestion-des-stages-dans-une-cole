@@ -1,0 +1,3 @@
+1/ creer base de données nommé 'stg' puis la connecer avec votre IDE username="root" password="".
+
+2/ Pour executer le projet aller à C:\Users\amine\Downloads\application gestion_des_stagaires\Gestion Stagiaire jdbc Access\src\test\stagiare2 
